@@ -18,11 +18,5 @@ namespace issue_test
             this.name = name;
             this.price = price;
         }
-
-        public void ShowItems()
-        {
-            Console.WriteLine("アイテムid" +  id + "アイテム名" + name + "値段" + price);
-            Console.ReadLine();
-        }
     }
 }

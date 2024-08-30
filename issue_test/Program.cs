@@ -55,7 +55,7 @@ namespace issue_test
                 // 武器一覧を表示
                 for (int i = 0; i < items.Count; i++)
                 {
-                    Console.WriteLine("" + items[i].id + "" + items[i].name + "" + items[i].price + "G");
+                    Console.WriteLine("" + items[i].id + " " + items[i].name + " " + items[i].price + "G");
                 }
 
                 // プレイヤーの入力
