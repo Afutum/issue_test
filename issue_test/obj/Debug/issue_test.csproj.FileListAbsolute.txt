@@ -1,0 +1,7 @@
+C:\Users\student\git\issue_test\issue_test\bin\Debug\issue_test.exe.config
+C:\Users\student\git\issue_test\issue_test\bin\Debug\issue_test.exe
+C:\Users\student\git\issue_test\issue_test\bin\Debug\issue_test.pdb
+C:\Users\student\git\issue_test\issue_test\obj\Debug\issue_test.csproj.AssemblyReference.cache
+C:\Users\student\git\issue_test\issue_test\obj\Debug\issue_test.csproj.CoreCompileInputs.cache
+C:\Users\student\git\issue_test\issue_test\obj\Debug\issue_test.exe
+C:\Users\student\git\issue_test\issue_test\obj\Debug\issue_test.pdb
